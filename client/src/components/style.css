@@ -1,0 +1,66 @@
+.login{
+    background: url('../Images_js/home.avif');
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url('../Images_js/home.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+.log-in{
+    justify-content: center;
+    margin-left: 80px;
+}
+.loginform{
+    background-color: rgba(1,32,93,0.6);
+    color:white;
+}
+
+ul li:hover{
+    background-color: gray;
+}
+
+.emp_img{
+    width:40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.clearfix{
+    top: 0px;
+}
+
+.artnav{
+    height: 43px; top: 57px;
+}
+.a1{
+    width: 60%; vertical-align:bottom; background-color:#FFFFFF;
+}
+.a2{
+    width: 40%;
+}
+.s1{
+    width: 100%; float: left; margin-right: -100%; display: none;
+}
+.listitem{
+    width: 100%; float: left; margin-right: -100%; display: list-item;
+}
+.img{
+    padding-top:10px;
+}
+.next{
+    right: 383px;
+}
+.wrapper{
+    font-size:24px; color:#000000; padding:30px 0px 20px 0px; text-shadow: 0 1px #fff;
+}
+.w_clr{
+    color:#380d71;
+}
+.prev{
+    left: 377px;
+}
+.att{
+    padding: 20px;
+    right:-30rem;
+    align-items: center;
+    justify-content: center;
+}
